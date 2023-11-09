@@ -1,0 +1,10 @@
+- 👋 Hi, I’m @christinapaola
+- 👀 I’m interested in learning new skills that can help me break into Cyber Security
+- 🌱 I’m currently learning Linux and Windows Operating Systems
+- 💞️ I’m looking to collaborate on a personal project where I can use what I am learning about Linux and Windows to further my understanding in what role they play in the Cyber Security Industry
+- 📫 How to reach me my email is christine.dorantes95@gmail.com and my linked in profile is https://www.linkedin.com/in/christinedorantes/
+
+<!---
+christinapaola/christinapaola is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+You can click the Preview link to take a look at your changes.
+--->
